@@ -12,7 +12,7 @@ The code for the project implemented using ADMM is in file "Generate_celeb_faces
 
 Few generated Sample images are:
 
-![Generated image](https://github.com/alinstein/Face_generation/blob/master/5.JPG)
+![Generated image](https://github.com/alinstein/Face_generation/blob/master/11.JPG)
 ![Generated image](https://github.com/alinstein/Face_generation/blob/master/6.JPG)
 ![Generated image](https://github.com/alinstein/Face_generation/blob/master/7.JPG)
 ![Generated image](https://github.com/alinstein/Face_generation/blob/master/8.JPG)
