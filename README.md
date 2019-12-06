@@ -12,7 +12,12 @@ The code for the project implemented using ADMM is in file "Generate_celeb_faces
 
 Few generated Sample images are:
 
-![ECG image](https://github.com/alinstein/Human-Identification-with-ECG--/blob/master/observation/ecg.jpg)
+![ECG image](https://github.com//alinstein/Face_generation/blob/master/observation/5.jpg)
+![ECG image](https://github.com//alinstein/Face_generation/blob/master/observation/6.jpg)
+![ECG image](https://github.com//alinstein/Face_generation/blob/master/observation/7.jpg)
+![ECG image](https://github.com//alinstein/Face_generation/blob/master/observation/8.jpg)
+![ECG image](https://github.com//alinstein/Face_generation/blob/master/observation/9.jpg)
+![ECG image](https://github.com//alinstein/Face_generation/blob/master/observation/10.jpg)
 
 Final sparse coefficient vector representation of the above ECG signal:
 
