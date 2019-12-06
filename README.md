@@ -23,8 +23,6 @@ Few generated Sample images are:
 
 ## Authors
 
-%Written by Alinstein Jose, University of Victoria.
-
-## License
+Written by Alinstein Jose, University of Victoria.
 
 
