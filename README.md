@@ -5,7 +5,7 @@ This project implements a method to generate faces using generative adversarial 
 
 ## Getting Started
 
-The code for the project implemented using ADMM is in file "Generate_celeb_faces_.ipynb".
+The code for the project is in file "Generate_celeb_faces_.ipynb".
 
 
 ### Results
